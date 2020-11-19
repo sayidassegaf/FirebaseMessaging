@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codelab4-pushnotifications-sayidassegaf-start.iml" filepath="$PROJECT_DIR$/.idea/modules/codelab4-pushnotifications-sayidassegaf-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/codelab4-pushnotifications-sayidassegaf-start.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/codelab4-pushnotifications-sayidassegaf-start.app.iml" />
+    </modules>
+  </component>
+</project>
